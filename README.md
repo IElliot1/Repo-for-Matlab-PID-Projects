@@ -9,4 +9,4 @@ The Manually Tuned PID is just a cleaned up live script containing a full PID wi
 
 The PID runner live script is a function version of the Manually Generated PID 
 
-The Randomly Generated PID is a livescript that runs a bunch of PID simulations with different Kp,Ki, and Kd coefficients and giving back the best one.
+The Automatically Tuned PID is a livescript that runs a bunch of PID simulations with different Kp,Ki, and Kd coefficients and giving back the best one.
